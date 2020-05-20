@@ -1,6 +1,33 @@
 # pacman-reinforcement-learning
 https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html
 
+## project description
+```
+Optional assignment: reinforcement learning; due Friday 3 July (end of exam period)
+Timothy Miller
+No unread replies.No replies.
+Hi everyone,
+
+I have posted the specification for the optional individual assignment under the 'Assignments' module; due at the end of the exam period (18:00, Friday 3 July).
+
+For this assignment, I'm getting you to just do the (rather brilliant) reinforcement learning tasks at the Berkeley website: https://berkeleyai.github.io/cs188-website/project3.html (Links to an external site.)   This assessment is really great (I have just completed it again myself to test it out)
+
+You will need to follow the submission directions on the assignment specification
+
+I'm setting this assignment because this semester we face the unusual situation of doing exams online, and I know that many students are worried about the high-stakes nature of this. The assignment is optional because I know that some people are overwhelmed by the current situation and don't want more things to do, or (like me!) they have children at home doing schooling and don't really have any additional time.
+
+This optional assignment is more-or-less no lose. You can earn up to 10 marks, but if you complete only some of the tasks, you will only be marked on those tasks. That is, any tasks you do not attempt (or you get 0 for), will be excluded from the mark calculation. If you complete all tasks and earn 10/10, your final exam will be worth 40% instead of 50%. If you complete tasks worth 6 marks and earn 5/6, your final exam will be worth 44\% instead of 50\%, and you will receive 5\% for this. 
+
+The deadline is the end of the exam period, but I do strongly suggest that you use this as a study resource before the exam. Implementing the tasks in questions 1-3 and 6-10 will be excellent preparation for the exam. If you do not find the time before the exam, I'd still be delighted for you to learn about these algorithms after the exam.
+
+In short, this is a fun and useful assignment, and if you have the time and design to attempt it, I strongly recommend it!
+
+Enjoy!
+
+Regards,
+Tim
+```
+
 ## questions attempted
 ```
 D:\python\python.exe E:/backup/code/python/pacman-reinforcement-learning/src/autograder.py
