@@ -164,8 +164,9 @@ class AsynchronousValueIterationAgent(ValueIterationAgent):
     def runValueIteration(self):
         "*** YOUR CODE HERE ***"
         states = self.mdp.getStates()
+        states_len = len(states)
         for k in range(self.iterations):
-            state = states[k % len(states)]
+            state = states[k % states_len]
 
             if self.mdp.isTerminal(state):
                 continue
