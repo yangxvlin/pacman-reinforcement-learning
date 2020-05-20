@@ -256,4 +256,3 @@ class PrioritizedSweepingValueIterationAgent(AsynchronousValueIterationAgent):
                 # As before, we use a negative because the priority queue is a min heap, but we want to prioritize updating states that have a higher error.
                 if diff > self.theta:
                     pq.update(p, -diff)
-
